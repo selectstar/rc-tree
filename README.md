@@ -1,4 +1,4 @@
-# rc-tree
+# rc-tree selectstar fork
 
 Tree component.
 
